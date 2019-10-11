@@ -1,0 +1,3 @@
+se...então            (if/then)
+se...então/senão      (if...then/else)
+caso selecione        (select...case)

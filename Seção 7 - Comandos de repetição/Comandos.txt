@@ -1,0 +1,5 @@
+Enquanto algo...processar        while
+Até que algo...processar         
+Processar...enquanto algo        
+Processar...até que algo
+para                             for
