@@ -1,0 +1,71 @@
+#Seção 3 - Exercícios
+
+1- Identificar os dados de entrada, processamento e saída no algorítmo abaixo:
+
+receber o código da peça
+receber o valor da peça
+receber a quantidade de peças
+calcular o valor total da peça (quantidade * valor da peça)
+mostrar o código da peça e seu valor total
+
+    Entradas:
+        - Receber o código da peça
+        - Receber o valor da pela
+        - Receber a quantidade de peças
+    
+    Processamento:
+        - Calcular o valor total das peças
+        (quantidade * valor da peça)
+
+    Saída:
+        - Mostrar o código da peça
+        - Mostrar o valor total
+
+2- Fazer um algorítmo para "Calcular o estoque médio de uma peça", sendo que:
+Estoque médio = (quantidade mínima + quantidade máxima) / 2
+
+    Inserir a quantminima
+    Inserir a quantmaxima
+    Somar quantminima e quantmaxima
+    Dividir o resultado da soma por 2
+    Mostrar o resultado da divisão
+
+3- Teste o algorítmo anterior com os dados definidos por você
+
+estoquemédio= quantminima + quantmaxima) / 2
+_________________________________________________________
+| Quantidade mínima | Quantidade máxima | Estoque médio |
+|--------------------------------------------------------
+|        10         |        10         |       10      |
+|--------------------------------------------------------
+|        13         |        87         |       50      |
+---------------------------------------------------------
+
+4- Faça um algorítmo que peça dois números e imprima a soma
+
+Insira um número
+Insira outro número
+Somar os números recebidos
+Mostrar resultado da soma
+
+5- Faça um algorítmo que converta metros para centímetros
+
+Insira o tamanho em metros
+Multiplicar o valor por 100
+Mostrar o resultado
+
+6- Faça um algorítmo que pergunte quanto você ganha por hora e o número de horas trabalhadas ao mês.
+Calcule e mostre o total do seu salário no referido mês.
+
+Insira a quantidade de horas que você trabalha por mês
+Insira o valor que você ganha por hora trabalhadas
+Multiplique a quantidade de horas pelo valor da hora
+Mostre o resultado
+
+7- Tendo como dados de entrada a altura de uma pessoa, construa um algorítmo que calcule seu peso ideal, usando a seguinte fórmula:
+(72,7 * altura) - 58
+
+Insira sua altura
+Multiplique a altura por 72,7
+Subtraia 58 do valor obtido
+Mostre o resultado
